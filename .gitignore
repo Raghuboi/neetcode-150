@@ -37,3 +37,8 @@ Thumbs.db
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+
+# Added by cargo
+
+/target

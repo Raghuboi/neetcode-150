@@ -1,0 +1,10 @@
+[package]
+name = "neetcode150"
+version = "0.1.0"
+edition = "2021"
+resolver = "2"
+
+# Add [[bin]] entries per question as you create them:
+# [[bin]]
+# name = "two-sum"
+# path = "arrays-strings/two-sum.rs"
